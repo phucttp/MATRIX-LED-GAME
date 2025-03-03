@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=MT2 Old Footprint=matrix8x8 New Footprint=matrix
+Change Component Footprint: Designator=MT3 Old Footprint=matrix8x8 New Footprint=matrix
+Change Component Footprint: Designator=MT4 Old Footprint=matrix8x8 New Footprint=matrix
+Change Component Designator: OldDesignator=MT1 NewDesignator=MT2
+Change Component Designator: OldDesignator=MT2 NewDesignator=MT3
+Change Component Designator: OldDesignator=MT3 NewDesignator=MT4
+Change Component Designator: OldDesignator=MT4 NewDesignator=MT5
+Added Room: Name=Sheet1

@@ -1,0 +1,12 @@
+Added Component: Designator=IC1(DIP16/W0.3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "74HC595"; VariantName = "[No Variations]"
+Added Component: Designator=IC2(DIP16/W0.3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "74HC595"; VariantName = "[No Variations]"
+Added Component: Designator=IC3(DIP16/W0.3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "74HC595"; VariantName = "[No Variations]"
+Added Component: Designator=IC4(DIP16/W0.3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "74HC595"; VariantName = "[No Variations]"

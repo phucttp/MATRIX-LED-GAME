@@ -1,0 +1,217 @@
+Removed Pin From Net: NetName=c2 Pin=MT1-3
+Removed Pin From Net: NetName=c3 Pin=MT1-4
+Removed Pin From Net: NetName=c5 Pin=MT1-6
+Removed Pin From Net: NetName=c4 Pin=MT1-10
+Removed Pin From Net: NetName=c6 Pin=MT1-11
+Removed Pin From Net: NetName=c1 Pin=MT1-13
+Removed Pin From Net: NetName=c7 Pin=MT1-15
+Removed Pin From Net: NetName=c8 Pin=MT1-16
+Removed Pin From Net: NetName=c10 Pin=MT2-3
+Removed Pin From Net: NetName=c11 Pin=MT2-4
+Removed Pin From Net: NetName=c13 Pin=MT2-6
+Removed Pin From Net: NetName=c12 Pin=MT2-10
+Removed Pin From Net: NetName=c14 Pin=MT2-11
+Removed Pin From Net: NetName=c9 Pin=MT2-13
+Removed Pin From Net: NetName=c15 Pin=MT2-15
+Removed Pin From Net: NetName=c16 Pin=MT2-16
+Removed Pin From Net: NetName=c7 Pin=MT3-3
+Removed Pin From Net: NetName=c6 Pin=MT3-4
+Removed Pin From Net: NetName=c4 Pin=MT3-6
+Removed Pin From Net: NetName=c5 Pin=MT3-10
+Removed Pin From Net: NetName=c3 Pin=MT3-11
+Removed Pin From Net: NetName=c8 Pin=MT3-13
+Removed Pin From Net: NetName=c2 Pin=MT3-15
+Removed Pin From Net: NetName=c1 Pin=MT3-16
+Removed Pin From Net: NetName=c15 Pin=MT4-3
+Removed Pin From Net: NetName=c14 Pin=MT4-4
+Removed Pin From Net: NetName=c12 Pin=MT4-6
+Removed Pin From Net: NetName=c13 Pin=MT4-10
+Removed Pin From Net: NetName=c11 Pin=MT4-11
+Removed Pin From Net: NetName=c16 Pin=MT4-13
+Removed Pin From Net: NetName=c10 Pin=MT4-15
+Removed Pin From Net: NetName=c9 Pin=MT4-16
+Added Component: Designator=CN3(HDR1X8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey Part link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Open DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "H:\LIBRARY\LIBRARY.Datasheet\"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Hoang Nguyen"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor P/N"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=CN4(HDR1X8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey Part link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Open DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "H:\LIBRARY\LIBRARY.Datasheet\"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Hoang Nguyen"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor P/N"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=CN5(HDR1X8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey Part link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Open DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "H:\LIBRARY\LIBRARY.Datasheet\"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Hoang Nguyen"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor P/N"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=CN6(HDR1X8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey Part link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Open DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "H:\LIBRARY\LIBRARY.Datasheet\"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Hoang Nguyen"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor P/N"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=CN7(HDR1X8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey Part link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Open DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "H:\LIBRARY\LIBRARY.Datasheet\"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Hoang Nguyen"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor P/N"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=CN8(HDR1X8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey Part link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Open DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "H:\LIBRARY\LIBRARY.Datasheet\"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Hoang Nguyen"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor P/N"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=c1 Pin=CN7-1
+Added Pin To Net: NetName=c2 Pin=CN7-2
+Added Pin To Net: NetName=c3 Pin=CN7-3
+Added Pin To Net: NetName=c4 Pin=CN7-4
+Added Pin To Net: NetName=c5 Pin=CN7-5
+Added Pin To Net: NetName=c6 Pin=CN7-6
+Added Pin To Net: NetName=c7 Pin=CN7-7
+Added Pin To Net: NetName=c8 Pin=CN7-8
+Added Pin To Net: NetName=c9 Pin=CN8-1
+Added Pin To Net: NetName=c10 Pin=CN8-2
+Added Pin To Net: NetName=c11 Pin=CN8-3
+Added Pin To Net: NetName=c12 Pin=CN8-4
+Added Pin To Net: NetName=c13 Pin=CN8-5
+Added Pin To Net: NetName=c14 Pin=CN8-6
+Added Pin To Net: NetName=c15 Pin=CN8-7
+Added Pin To Net: NetName=c16 Pin=CN8-8
+Added Pin To Net: NetName=NetCN3_1 Pin=CN3-1
+Added Pin To Net: NetName=NetCN3_1 Pin=MT1-16
+Added Net: Name=NetCN3_1
+Added Pin To Net: NetName=NetCN3_2 Pin=CN3-2
+Added Pin To Net: NetName=NetCN3_2 Pin=MT1-15
+Added Net: Name=NetCN3_2
+Added Pin To Net: NetName=NetCN3_3 Pin=CN3-3
+Added Pin To Net: NetName=NetCN3_3 Pin=MT1-11
+Added Net: Name=NetCN3_3
+Added Pin To Net: NetName=NetCN3_4 Pin=CN3-4
+Added Pin To Net: NetName=NetCN3_4 Pin=MT1-6
+Added Net: Name=NetCN3_4
+Added Pin To Net: NetName=NetCN3_5 Pin=CN3-5
+Added Pin To Net: NetName=NetCN3_5 Pin=MT1-10
+Added Net: Name=NetCN3_5
+Added Pin To Net: NetName=NetCN3_6 Pin=CN3-6
+Added Pin To Net: NetName=NetCN3_6 Pin=MT1-4
+Added Net: Name=NetCN3_6
+Added Pin To Net: NetName=NetCN3_7 Pin=CN3-7
+Added Pin To Net: NetName=NetCN3_7 Pin=MT1-3
+Added Net: Name=NetCN3_7
+Added Pin To Net: NetName=NetCN3_8 Pin=CN3-8
+Added Pin To Net: NetName=NetCN3_8 Pin=MT1-13
+Added Net: Name=NetCN3_8
+Added Pin To Net: NetName=NetCN4_1 Pin=CN4-1
+Added Pin To Net: NetName=NetCN4_1 Pin=MT2-16
+Added Net: Name=NetCN4_1
+Added Pin To Net: NetName=NetCN4_2 Pin=CN4-2
+Added Pin To Net: NetName=NetCN4_2 Pin=MT2-15
+Added Net: Name=NetCN4_2
+Added Pin To Net: NetName=NetCN4_3 Pin=CN4-3
+Added Pin To Net: NetName=NetCN4_3 Pin=MT2-11
+Added Net: Name=NetCN4_3
+Added Pin To Net: NetName=NetCN4_4 Pin=CN4-4
+Added Pin To Net: NetName=NetCN4_4 Pin=MT2-6
+Added Net: Name=NetCN4_4
+Added Pin To Net: NetName=NetCN4_5 Pin=CN4-5
+Added Pin To Net: NetName=NetCN4_5 Pin=MT2-10
+Added Net: Name=NetCN4_5
+Added Pin To Net: NetName=NetCN4_6 Pin=CN4-6
+Added Pin To Net: NetName=NetCN4_6 Pin=MT2-4
+Added Net: Name=NetCN4_6
+Added Pin To Net: NetName=NetCN4_7 Pin=CN4-7
+Added Pin To Net: NetName=NetCN4_7 Pin=MT2-3
+Added Net: Name=NetCN4_7
+Added Pin To Net: NetName=NetCN4_8 Pin=CN4-8
+Added Pin To Net: NetName=NetCN4_8 Pin=MT2-13
+Added Net: Name=NetCN4_8
+Added Pin To Net: NetName=NetCN5_1 Pin=CN5-1
+Added Pin To Net: NetName=NetCN5_1 Pin=MT3-16
+Added Net: Name=NetCN5_1
+Added Pin To Net: NetName=NetCN5_2 Pin=CN5-2
+Added Pin To Net: NetName=NetCN5_2 Pin=MT3-15
+Added Net: Name=NetCN5_2
+Added Pin To Net: NetName=NetCN5_3 Pin=CN5-3
+Added Pin To Net: NetName=NetCN5_3 Pin=MT3-11
+Added Net: Name=NetCN5_3
+Added Pin To Net: NetName=NetCN5_4 Pin=CN5-4
+Added Pin To Net: NetName=NetCN5_4 Pin=MT3-6
+Added Net: Name=NetCN5_4
+Added Pin To Net: NetName=NetCN5_5 Pin=CN5-5
+Added Pin To Net: NetName=NetCN5_5 Pin=MT3-10
+Added Net: Name=NetCN5_5
+Added Pin To Net: NetName=NetCN5_6 Pin=CN5-6
+Added Pin To Net: NetName=NetCN5_6 Pin=MT3-4
+Added Net: Name=NetCN5_6
+Added Pin To Net: NetName=NetCN5_7 Pin=CN5-7
+Added Pin To Net: NetName=NetCN5_7 Pin=MT3-3
+Added Net: Name=NetCN5_7
+Added Pin To Net: NetName=NetCN5_8 Pin=CN5-8
+Added Pin To Net: NetName=NetCN5_8 Pin=MT3-13
+Added Net: Name=NetCN5_8
+Added Pin To Net: NetName=NetCN6_1 Pin=CN6-1
+Added Pin To Net: NetName=NetCN6_1 Pin=MT4-16
+Added Net: Name=NetCN6_1
+Added Pin To Net: NetName=NetCN6_2 Pin=CN6-2
+Added Pin To Net: NetName=NetCN6_2 Pin=MT4-15
+Added Net: Name=NetCN6_2
+Added Pin To Net: NetName=NetCN6_3 Pin=CN6-3
+Added Pin To Net: NetName=NetCN6_3 Pin=MT4-11
+Added Net: Name=NetCN6_3
+Added Pin To Net: NetName=NetCN6_4 Pin=CN6-4
+Added Pin To Net: NetName=NetCN6_4 Pin=MT4-6
+Added Net: Name=NetCN6_4
+Added Pin To Net: NetName=NetCN6_5 Pin=CN6-5
+Added Pin To Net: NetName=NetCN6_5 Pin=MT4-10
+Added Net: Name=NetCN6_5
+Added Pin To Net: NetName=NetCN6_6 Pin=CN6-6
+Added Pin To Net: NetName=NetCN6_6 Pin=MT4-4
+Added Net: Name=NetCN6_6
+Added Pin To Net: NetName=NetCN6_7 Pin=CN6-7
+Added Pin To Net: NetName=NetCN6_7 Pin=MT4-3
+Added Net: Name=NetCN6_7
+Added Pin To Net: NetName=NetCN6_8 Pin=CN6-8
+Added Pin To Net: NetName=NetCN6_8 Pin=MT4-13
+Added Net: Name=NetCN6_8
+Added Member To Class: ClassName=Sheet1 Member=Component CN3 CON.HDR1x8
+Added Member To Class: ClassName=Sheet1 Member=Component CN4 CON.HDR1x8
+Added Member To Class: ClassName=Sheet1 Member=Component CN5 CON.HDR1x8
+Added Member To Class: ClassName=Sheet1 Member=Component CN6 CON.HDR1x8
+Added Member To Class: ClassName=Sheet1 Member=Component CN7 CON.HDR1x8
+Added Member To Class: ClassName=Sheet1 Member=Component CN8 CON.HDR1x8
+Added Room: Name=Sheet1

@@ -1,0 +1,80 @@
+Change Component Designator: OldDesignator=CN4 NewDesignator=CN2
+Added Component: Designator=CN3(CON.HDR1X4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey Part link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Open DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "H:\LIBRARY\LIBRARY.Datasheet\"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Hoang Nguyen"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor P/N"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=CN4(CON.HDR1X6)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey Part link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Open DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "H:\LIBRARY\LIBRARY.Datasheet\"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Hoang Nguyen"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor P/N"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=CN5(HDR1X8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey Part link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Open DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "H:\LIBRARY\LIBRARY.Datasheet\"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Hoang Nguyen"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor P/N"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=CN6(HDR1X10)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey Part link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Open DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "H:\LIBRARY\LIBRARY.Datasheet\"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Hoang Nguyen"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor P/N"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetCN3_1 Pin=CN3-1
+Added Pin To Net: NetName=NetCN3_1 Pin=CN6-7
+Added Net: Name=NetCN3_1
+Added Pin To Net: NetName=NetCN3_2 Pin=CN3-2
+Added Pin To Net: NetName=NetCN3_2 Pin=CN6-6
+Added Net: Name=NetCN3_2
+Added Pin To Net: NetName=NetCN3_3 Pin=CN3-3
+Added Pin To Net: NetName=NetCN3_3 Pin=CN6-5
+Added Net: Name=NetCN3_3
+Added Pin To Net: NetName=NetCN3_4 Pin=CN3-4
+Added Pin To Net: NetName=NetCN3_4 Pin=CN6-4
+Added Net: Name=NetCN3_4
+Added Pin To Net: NetName=NetCN4_1 Pin=CN4-1
+Added Pin To Net: NetName=NetCN4_1 Pin=CN5-6
+Added Net: Name=NetCN4_1
+Added Pin To Net: NetName=NetCN4_2 Pin=CN4-2
+Added Pin To Net: NetName=NetCN4_2 Pin=CN5-5
+Added Net: Name=NetCN4_2
+Added Pin To Net: NetName=NetCN4_3 Pin=CN4-3
+Added Pin To Net: NetName=NetCN4_3 Pin=CN5-4
+Added Net: Name=NetCN4_3
+Added Pin To Net: NetName=NetCN4_4 Pin=CN4-4
+Added Pin To Net: NetName=NetCN4_4 Pin=CN5-3
+Added Net: Name=NetCN4_4
+Added Pin To Net: NetName=NetCN4_5 Pin=CN4-5
+Added Pin To Net: NetName=NetCN4_5 Pin=CN5-2
+Added Net: Name=NetCN4_5
+Added Pin To Net: NetName=NetCN4_6 Pin=CN4-6
+Added Pin To Net: NetName=NetCN4_6 Pin=CN5-1
+Added Net: Name=NetCN4_6
+Added Member To Class: ClassName=Sheet1 Member=Component CN3 IO
+Added Member To Class: ClassName=Sheet1 Member=Component CN4 IO
+Added Member To Class: ClassName=Sheet1 Member=Component CN5 CON.HDR1x8
+Added Member To Class: ClassName=Sheet1 Member=Component CN6 CON.HDR1x10
+Added Room: Name=Sheet1

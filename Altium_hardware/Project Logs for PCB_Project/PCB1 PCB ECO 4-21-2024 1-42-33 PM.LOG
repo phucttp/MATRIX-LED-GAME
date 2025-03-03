@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=chot Pin=CN2-1
+Removed Pin From Net: NetName=xung Pin=CN2-2
+Removed Pin From Net: NetName=data Pin=CN2-3
+Removed Pin From Net: NetName=GND Pin=CN2-4
+Added Pin To Net: NetName=xung Pin=CN2-1
+Added Pin To Net: NetName=chot Pin=CN2-2
+Added Pin To Net: NetName=GND Pin=CN2-3
+Added Pin To Net: NetName=data Pin=CN2-4
+Added Room: Name=Sheet1

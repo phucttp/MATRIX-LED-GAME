@@ -1,0 +1,159 @@
+Added Component: Designator=IC1(DIP16)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "74HC595"; VariantName = "[No Variations]"
+Added Component: Designator=IC2(DIP16)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "74HC595"; VariantName = "[No Variations]"
+Added Component: Designator=IC3(DIP16)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "74HC595"; VariantName = "[No Variations]"
+Added Component: Designator=IC4(DIP16)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "74HC595"; VariantName = "[No Variations]"
+Added Component: Designator=MT1(matrix8x8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Matrix 8x8S"; VariantName = "[No Variations]"
+Added Component: Designator=MT2(matrix8x8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Matrix 8x8S"; VariantName = "[No Variations]"
+Added Component: Designator=MT3(matrix8x8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Matrix 8x8S"; VariantName = "[No Variations]"
+Added Component: Designator=MT4(matrix8x8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Matrix 8x8S"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=r2 Pin=IC1-1
+Added Pin To Net: NetName=r3 Pin=IC1-2
+Added Pin To Net: NetName=r4 Pin=IC1-3
+Added Pin To Net: NetName=r5 Pin=IC1-4
+Added Pin To Net: NetName=r6 Pin=IC1-5
+Added Pin To Net: NetName=r7 Pin=IC1-6
+Added Pin To Net: NetName=r8 Pin=IC1-7
+Added Pin To Net: NetName=GND Pin=IC1-8
+Added Pin To Net: NetName=NetIC1_9 Pin=IC1-9
+Added Pin To Net: NetName=VCC Pin=IC1-10
+Added Pin To Net: NetName=xung Pin=IC1-11
+Added Pin To Net: NetName=chot Pin=IC1-12
+Added Pin To Net: NetName=GND Pin=IC1-13
+Added Pin To Net: NetName=data Pin=IC1-14
+Added Pin To Net: NetName=r1 Pin=IC1-15
+Added Pin To Net: NetName=VCC Pin=IC1-16
+Added Pin To Net: NetName=c2 Pin=IC2-1
+Added Pin To Net: NetName=c3 Pin=IC2-2
+Added Pin To Net: NetName=c4 Pin=IC2-3
+Added Pin To Net: NetName=c5 Pin=IC2-4
+Added Pin To Net: NetName=c6 Pin=IC2-5
+Added Pin To Net: NetName=c7 Pin=IC2-6
+Added Pin To Net: NetName=c8 Pin=IC2-7
+Added Pin To Net: NetName=GND Pin=IC2-8
+Added Pin To Net: NetName=NetIC2_9 Pin=IC2-9
+Added Pin To Net: NetName=VCC Pin=IC2-10
+Added Pin To Net: NetName=xung Pin=IC2-11
+Added Pin To Net: NetName=chot Pin=IC2-12
+Added Pin To Net: NetName=GND Pin=IC2-13
+Added Pin To Net: NetName=NetIC2_14 Pin=IC2-14
+Added Pin To Net: NetName=c1 Pin=IC2-15
+Added Pin To Net: NetName=VCC Pin=IC2-16
+Added Pin To Net: NetName=r10 Pin=IC3-1
+Added Pin To Net: NetName=r11 Pin=IC3-2
+Added Pin To Net: NetName=r12 Pin=IC3-3
+Added Pin To Net: NetName=r13 Pin=IC3-4
+Added Pin To Net: NetName=r14 Pin=IC3-5
+Added Pin To Net: NetName=r15 Pin=IC3-6
+Added Pin To Net: NetName=r16 Pin=IC3-7
+Added Pin To Net: NetName=GND Pin=IC3-8
+Added Pin To Net: NetName=NetIC2_14 Pin=IC3-9
+Added Pin To Net: NetName=VCC Pin=IC3-10
+Added Pin To Net: NetName=xung Pin=IC3-11
+Added Pin To Net: NetName=chot Pin=IC3-12
+Added Pin To Net: NetName=GND Pin=IC3-13
+Added Pin To Net: NetName=NetIC1_9 Pin=IC3-14
+Added Pin To Net: NetName=r9 Pin=IC3-15
+Added Pin To Net: NetName=VCC Pin=IC3-16
+Added Pin To Net: NetName=c10 Pin=IC4-1
+Added Pin To Net: NetName=c11 Pin=IC4-2
+Added Pin To Net: NetName=c12 Pin=IC4-3
+Added Pin To Net: NetName=c13 Pin=IC4-4
+Added Pin To Net: NetName=c14 Pin=IC4-5
+Added Pin To Net: NetName=c15 Pin=IC4-6
+Added Pin To Net: NetName=c16 Pin=IC4-7
+Added Pin To Net: NetName=GND Pin=IC4-8
+Added Pin To Net: NetName=VCC Pin=IC4-10
+Added Pin To Net: NetName=xung Pin=IC4-11
+Added Pin To Net: NetName=chot Pin=IC4-12
+Added Pin To Net: NetName=GND Pin=IC4-13
+Added Pin To Net: NetName=NetIC2_9 Pin=IC4-14
+Added Pin To Net: NetName=c9 Pin=IC4-15
+Added Pin To Net: NetName=VCC Pin=IC4-16
+Added Pin To Net: NetName=r13 Pin=MT1-1
+Added Pin To Net: NetName=r15 Pin=MT1-2
+Added Pin To Net: NetName=c2 Pin=MT1-3
+Added Pin To Net: NetName=c3 Pin=MT1-4
+Added Pin To Net: NetName=r16 Pin=MT1-5
+Added Pin To Net: NetName=c5 Pin=MT1-6
+Added Pin To Net: NetName=r14 Pin=MT1-7
+Added Pin To Net: NetName=r11 Pin=MT1-8
+Added Pin To Net: NetName=r9 Pin=MT1-9
+Added Pin To Net: NetName=c4 Pin=MT1-10
+Added Pin To Net: NetName=c6 Pin=MT1-11
+Added Pin To Net: NetName=r12 Pin=MT1-12
+Added Pin To Net: NetName=c1 Pin=MT1-13
+Added Pin To Net: NetName=r10 Pin=MT1-14
+Added Pin To Net: NetName=c7 Pin=MT1-15
+Added Pin To Net: NetName=c8 Pin=MT1-16
+Added Pin To Net: NetName=r13 Pin=MT2-1
+Added Pin To Net: NetName=r15 Pin=MT2-2
+Added Pin To Net: NetName=c10 Pin=MT2-3
+Added Pin To Net: NetName=c11 Pin=MT2-4
+Added Pin To Net: NetName=r16 Pin=MT2-5
+Added Pin To Net: NetName=c13 Pin=MT2-6
+Added Pin To Net: NetName=r14 Pin=MT2-7
+Added Pin To Net: NetName=r11 Pin=MT2-8
+Added Pin To Net: NetName=r9 Pin=MT2-9
+Added Pin To Net: NetName=c12 Pin=MT2-10
+Added Pin To Net: NetName=c14 Pin=MT2-11
+Added Pin To Net: NetName=r12 Pin=MT2-12
+Added Pin To Net: NetName=c9 Pin=MT2-13
+Added Pin To Net: NetName=r10 Pin=MT2-14
+Added Pin To Net: NetName=c15 Pin=MT2-15
+Added Pin To Net: NetName=c16 Pin=MT2-16
+Added Pin To Net: NetName=r5 Pin=MT3-1
+Added Pin To Net: NetName=r7 Pin=MT3-2
+Added Pin To Net: NetName=c7 Pin=MT3-3
+Added Pin To Net: NetName=c6 Pin=MT3-4
+Added Pin To Net: NetName=r8 Pin=MT3-5
+Added Pin To Net: NetName=c4 Pin=MT3-6
+Added Pin To Net: NetName=r6 Pin=MT3-7
+Added Pin To Net: NetName=r3 Pin=MT3-8
+Added Pin To Net: NetName=r1 Pin=MT3-9
+Added Pin To Net: NetName=c5 Pin=MT3-10
+Added Pin To Net: NetName=c3 Pin=MT3-11
+Added Pin To Net: NetName=r4 Pin=MT3-12
+Added Pin To Net: NetName=c8 Pin=MT3-13
+Added Pin To Net: NetName=r2 Pin=MT3-14
+Added Pin To Net: NetName=c2 Pin=MT3-15
+Added Pin To Net: NetName=c1 Pin=MT3-16
+Added Pin To Net: NetName=r5 Pin=MT4-1
+Added Pin To Net: NetName=r7 Pin=MT4-2
+Added Pin To Net: NetName=c15 Pin=MT4-3
+Added Pin To Net: NetName=c14 Pin=MT4-4
+Added Pin To Net: NetName=r8 Pin=MT4-5
+Added Pin To Net: NetName=c12 Pin=MT4-6
+Added Pin To Net: NetName=r6 Pin=MT4-7
+Added Pin To Net: NetName=r3 Pin=MT4-8
+Added Pin To Net: NetName=r1 Pin=MT4-9
+Added Pin To Net: NetName=c13 Pin=MT4-10
+Added Pin To Net: NetName=c11 Pin=MT4-11
+Added Pin To Net: NetName=r4 Pin=MT4-12
+Added Pin To Net: NetName=c16 Pin=MT4-13
+Added Pin To Net: NetName=r2 Pin=MT4-14
+Added Pin To Net: NetName=c10 Pin=MT4-15
+Added Pin To Net: NetName=c9 Pin=MT4-16
+Added Member To Class: ClassName=Sheet1 Member=Component IC1 74HC595
+Added Member To Class: ClassName=Sheet1 Member=Component IC2 74HC595
+Added Member To Class: ClassName=Sheet1 Member=Component IC3 74HC595
+Added Member To Class: ClassName=Sheet1 Member=Component IC4 74HC595
+Added Member To Class: ClassName=Sheet1 Member=Component MT1 Matrix 8x8S
+Added Member To Class: ClassName=Sheet1 Member=Component MT2 Matrix 8x8S
+Added Member To Class: ClassName=Sheet1 Member=Component MT3 Matrix 8x8S
+Added Member To Class: ClassName=Sheet1 Member=Component MT4 Matrix 8x8S
