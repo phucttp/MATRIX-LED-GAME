@@ -26,6 +26,10 @@ This project is a **custom-built** gaming device featuring **classic arcade game
 - Push buttons for controls
 - Power supply & wiring
 
+## 📷 Images & Video Demo
+🔹 Top View of the Device:![Description](top.jpg)
+
+
 ## 🚀 Getting Started
 1. Assemble the LED matrix and connect it to the microcontroller.
 2. Upload the game firmware using Arduino IDE or PlatformIO.
