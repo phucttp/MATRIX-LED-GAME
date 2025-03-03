@@ -27,8 +27,10 @@ This project is a **custom-built** gaming device featuring **classic arcade game
 - Power supply & wiring
 
 ## 📷 Images & Video Demo
-🔹 Top View of the Device:![Description](top.jpg)
-
+- 🔹 Top View of the Device:
+- <img src="top.jpg" alt="Top View" width="300"> 
+- 🔹 Video Demo:
+- <img src="demo.gif" alt="Top View" width="300"> 
 
 ## 🚀 Getting Started
 1. Assemble the LED matrix and connect it to the microcontroller.
